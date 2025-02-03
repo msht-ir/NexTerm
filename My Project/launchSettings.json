@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NexTerm": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
